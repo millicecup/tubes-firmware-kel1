@@ -20,7 +20,7 @@ akan di tes pada sebuah model di HQ Pakde Stalin.
 
 ## How to Run 
 *** 
-```sET <Kp>,<Ki>,<Kd>```
+```SET <Kp>,<Ki>,<Kd>```
 **PERHATIKAN SPASI DAN TANDA KOMA**
 - untuk desimal menggunakan ```.``` {contoh : 1.5,2.3 berarti 1 koma 5 dan 2 koma 3}
 - tanda ```,``` (koma) untuk pemisah
