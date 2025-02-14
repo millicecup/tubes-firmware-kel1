@@ -1,8 +1,8 @@
-# Nama kelompok (?)
+# Kelompok 1
 ## Table of contents
 - [Deskripsi](#deskripsi)
 - [Writer](#writer)
-- [Cara Menjalankan](#how-to-run)
+- [Cara Tuning](#how-to-run)
 
 ## Deskripsi
 Pakde Stalin mengalami krisis tenaga kerja pembuatan mobil mata-mata. Oleh karena 
@@ -18,11 +18,11 @@ akan di tes pada sebuah model di HQ Pakde Stalin.
 | 18224004      | M Rafi' Abdurrahman              |
 | 18223125      | Matilda Angelina Sumaryo         |
 
-## How to Run 
+## Tuning 
 *** 
-```SET <Kp>,<Ki>,<Kd>```
+```<Kp> <Ki> <Kd>```
 **PERHATIKAN SPASI DAN TANDA KOMA**
 - untuk desimal menggunakan ```.``` {contoh : 1.5,2.3 berarti 1 koma 5 dan 2 koma 3}
-- tanda ```,``` (koma) untuk pemisah
+- tanda ``` ``` (spasi) untuk pemisah
 - contoh :
-  ```SET 1.5,0.2.0.8``` 
+  ```1.5 0.2 0.8``` 
