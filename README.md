@@ -1,4 +1,4 @@
-# Nama kelompok (?)
+# Kelompok 1
 ## Table of contents
 - [Deskripsi](#deskripsi)
 - [Writer](#writer)
