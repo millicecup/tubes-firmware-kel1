@@ -15,7 +15,7 @@ akan di tes pada sebuah model di HQ Pakde Stalin.
 |---------------|----------------------------------|
 | 13524137      | Reysha Syafitri Mulya Ramadhan   |
 | 13223002      | Muhammad Faiz Naufal             |
-| berapa ni      | M Rafi' Abdurrahman              |
+| 18224004      | M Rafi' Abdurrahman              |
 | 18223125      | Matilda Angelina Sumaryo         |
 
 ## How to Run 
