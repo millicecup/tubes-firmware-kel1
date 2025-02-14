@@ -7,12 +7,12 @@
 #include <Servo.h>
 
 // Bagian Sensor Ultrasonik (HC-SR04)
-const int trigPin = 7;
-const int echoPin = 6;
+const int trigPin = PA0;  // I/O
+const int echoPin = PA1;  // I/O
 
 // Bagian Kontrol Motor ESC
 Servo esc;
-const int escPin = 9;
+const int escPin = PA8; // generate sinyal PWM
 
 // Target jarak yang diinginkan
 float setpoint = 175;
